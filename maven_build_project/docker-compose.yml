@@ -1,0 +1,11 @@
+version: '3'
+services:
+  todos:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      DATABASE_HOST: oracle_db
+      DATABASE_PORT: 1521
+      DATABASE_USERNAME: sys
+      DATABASE_PASSWORD: Oradoc_db1

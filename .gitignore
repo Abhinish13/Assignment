@@ -1,0 +1,8 @@
+ec2_instance/terraform.tfstate
+ec2_instance/terraform.tfstate.backup
+ec2_instance/.terraform/plugins/darwin_amd64/lock.json
+ec2_instance/.terraform/plugins/darwin_amd64/terraform-provider-aws_v3.0.0_x5
+s3_bucket_with_public/terraform.tfstate
+s3_bucket_with_public/terraform.tfstate.backup
+s3_bucket_with_public/.terraform/plugins/darwin_amd64/lock.json
+s3_bucket_with_public/.terraform/plugins/darwin_amd64/terraform-provider-aws_v3.0.0_x5
